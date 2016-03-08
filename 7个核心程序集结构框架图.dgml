@@ -1,78 +1,88 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DirectedGraph DataVirtualized="True" GraphDirection="RightToLeft" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
   <Nodes>
-    <Node Id="(@11)" Category="CodeSchema_Assembly" AssemblyTimestamp="03/07/2016 09:05:48" Bounds="866.56,271.00005,168.523333333333,25" CodeSchemaProperty_StrongName="SuperSocket.Dlr, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(55baa051-ce62-4d4a-81b6-68b042cc78e9.OutputPath)" Group="Collapsed" Label="SuperSocket.Dlr.dll" UseManualLocation="True">
-      <Category Ref="FileSystem.Category.FileOfType.dll" />
-    </Node>
-    <Node Id="@10" Category="CodeSchema_Assembly" AssemblyTimestamp="03/07/2016 09:05:47" Bounds="94,128.5,204.773333333333,25" CodeSchemaProperty_StrongName="SuperSocket.Common, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(a24f4d38-ba9c-4fd6-95b7-4980de36131a.OutputPath)" Group="Collapsed" Label="SuperSocket.Common.dll">
+    <Node Id="0b209c63-152a-495e-8705-4e66a88f1aee1" Category="Comment" Bounds="423.293333333334,-84.99995,56,25.8366666666667" Label="新注释" UseManualLocation="True" />
+    <Node Id="5dcced56-ab61-42d8-a316-5a166cac8ae11" Category="Comment" Bounds="236.720364621201,331.4125652636,56,25.8366666666667" Label="新注释" UseManualLocation="True" />
+    <Node Id="9d1d8fa3-08e5-4809-8c3c-ac1acc2ba06d1" Category="Comment" Bounds="142.955426106893,230.554602319339,56,25.8366666666667" Label="新注释" UseManualLocation="True" />
+    <Node Id="@10" Category="CodeSchema_Assembly" AssemblyTimestamp="03/07/2016 09:05:47" Bounds="97.5563581445289,84.9963383496204,204.773333333333,25" CodeSchemaProperty_StrongName="SuperSocket.Common, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(a24f4d38-ba9c-4fd6-95b7-4980de36131a.OutputPath)" Group="Collapsed" Label="SuperSocket.Common.dll" UseManualLocation="True">
       <Category Ref="Category1" />
       <Category Ref="FileSystem.Category.FileOfType.dll" />
     </Node>
-    <Node Id="@13" Category="CodeSchema_Assembly" AssemblyTimestamp="03/07/2016 09:05:48" Bounds="865.306666666667,198.99995,191.03,25" CodeSchemaProperty_StrongName="SuperSocket.Facility, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(01987bac-c498-44dd-b274-62ea2506b51d.OutputPath)" Group="Collapsed" Label="SuperSocket.Facility.dll" UseManualLocation="True">
+    <Node Id="@12" Category="CodeSchema_Assembly" AssemblyTimestamp="03/07/2016 09:05:48" Bounds="542.042319311747,278.619036677222,168.523333333333,25" CodeSchemaProperty_StrongName="SuperSocket.Dlr, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(55baa051-ce62-4d4a-81b6-68b042cc78e9.OutputPath)" Group="Collapsed" Label="SuperSocket.Dlr.dll" UseManualLocation="True">
       <Category Ref="FileSystem.Category.FileOfType.dll" />
     </Node>
-    <Node Id="@2" Category="CodeSchema_Assembly" AssemblyTimestamp="03/07/2016 09:05:49" Bounds="859.35,-16.4999999999999,236.273333333333,25" CodeSchemaProperty_StrongName="SuperSocket.SocketService, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(b9113694-7226-4152-938d-3172b11571a1.OutputPath)" Group="Collapsed" Label="SuperSocket.SocketService.exe" UseManualLocation="True">
+    <Node Id="@14" Category="CodeSchema_Assembly" AssemblyTimestamp="03/07/2016 09:05:48" Bounds="236.720364621202,276.4124652636,191.03,25" CodeSchemaProperty_StrongName="SuperSocket.Facility, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(01987bac-c498-44dd-b274-62ea2506b51d.OutputPath)" Group="Collapsed" Label="SuperSocket.Facility.dll" UseManualLocation="True">
+      <Category Ref="FileSystem.Category.FileOfType.dll" />
+    </Node>
+    <Node Id="@2" Category="CodeSchema_Assembly" AssemblyTimestamp="03/07/2016 09:05:49" Bounds="833.566403452166,-0.496388349620304,236.273333333333,25" CodeSchemaProperty_StrongName="SuperSocket.SocketService, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(b9113694-7226-4152-938d-3172b11571a1.OutputPath)" Group="Collapsed" Label="SuperSocket.SocketService.exe" UseManualLocation="True">
       <Category Ref="FileSystem.Category.FileOfType.exe" />
     </Node>
-    <Node Id="@4" Category="CodeSchema_Assembly" AssemblyTimestamp="03/07/2016 09:05:49" Bounds="861.466666666667,71.5,192.04,25" CodeSchemaProperty_StrongName="SuperSocket.Agent, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(49ba8e71-4f97-40d6-bbe7-22b71d222486.OutputPath)" Group="Collapsed" Label="SuperSocket.Agent.exe" UseManualLocation="True">
+    <Node Id="@4" Category="CodeSchema_Assembly" AssemblyTimestamp="03/07/2016 09:05:49" Bounds="838.35033872723,168.41075943841,192.04,25" CodeSchemaProperty_StrongName="SuperSocket.Agent, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(49ba8e71-4f97-40d6-bbe7-22b71d222486.OutputPath)" Group="Collapsed" Label="SuperSocket.Agent.exe" UseManualLocation="True">
       <Category Ref="FileSystem.Category.FileOfType.exe" />
     </Node>
-    <Node Id="@6" Category="CodeSchema_Assembly" AssemblyTimestamp="03/07/2016 09:05:48" Bounds="398.293333333334,-4.5,229.056666666667,25" CodeSchemaProperty_StrongName="SuperSocket.SocketEngine, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(153fef72-191c-43d9-be71-2b351c7ac760.OutputPath)" Group="Collapsed" Label="SuperSocket.SocketEngine.dll" UseManualLocation="True">
+    <Node Id="@6" Category="CodeSchema_Assembly" AssemblyTimestamp="03/07/2016 09:05:48" Bounds="356.293333333334,-2.00005,229.056666666667,25" CodeSchemaProperty_StrongName="SuperSocket.SocketEngine, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(153fef72-191c-43d9-be71-2b351c7ac760.OutputPath)" Group="Collapsed" Label="SuperSocket.SocketEngine.dll" UseManualLocation="True">
       <Category Ref="Category7" />
       <Category Ref="FileSystem.Category.FileOfType.dll" />
     </Node>
-    <Node Id="@8" Category="CodeSchema_Assembly" AssemblyTimestamp="03/07/2016 09:05:48" Bounds="262.773333333333,241.5,216.52,25" CodeSchemaProperty_StrongName="SuperSocket.SocketBase, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(40b77789-ea11-4c05-8f52-86711d7bcaaf.OutputPath)" Group="Collapsed" Label="SuperSocket.SocketBase.dll" UseManualLocation="True">
+    <Node Id="@8" Category="CodeSchema_Assembly" AssemblyTimestamp="03/07/2016 09:05:48" Bounds="358.34955555495,172.334487216793,216.52,25" CodeSchemaProperty_StrongName="SuperSocket.SocketBase, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(40b77789-ea11-4c05-8f52-86711d7bcaaf.OutputPath)" Group="Collapsed" Label="SuperSocket.SocketBase.dll" UseManualLocation="True">
       <Category Ref="Category7" />
       <Category Ref="FileSystem.Category.FileOfType.dll" />
     </Node>
+    <Node Id="a551f3ef-7e2c-4d0a-ae3d-5aaac46928311" Category="Comment" Bounds="559.824110034391,333.619136677222,56,25.8366666666666" Label="新注释" UseManualLocation="True" />
+    <Node Id="基础通用方法类" Category="Comment" Bounds="91,173.00005,104,25.8366666666667" Label="基础通用方法集" UseManualLocation="True" />
   </Nodes>
   <Links>
-    <Link Source="(@11)" Target="@8" Category="References" Bounds="488.281706088143,259.965682059865,378.278293911857,19.2470733589232" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="59">
+    <Link Source="0b209c63-152a-495e-8705-4e66a88f1aee1" Target="@6" Bounds="454.348173894336,-59.1632833333333,11.4464383538018,48.4047868230972" />
+    <Link Source="5dcced56-ab61-42d8-a316-5a166cac8ae11" Target="@14" Bounds="280.458472368744,307.122639257199,29.5918569992447,24.2899260064011" />
+    <Link Source="9d1d8fa3-08e5-4809-8c3c-ac1acc2ba06d1" Target="@8" Bounds="198.955444335938,199.085393526551,195.80126564811,38.8341682213523" />
+    <Link Source="@12" Target="@8" Category="References" Bounds="492.883341941572,202.320992796962,114.639171184698,76.2980438802601" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="59">
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="Implements" />
       <Category Ref="InheritsFrom" />
     </Link>
-    <Link Source="@13" Target="@10" Category="References" Bounds="307.3570557086,151.234234276213,558.119734742649,51.4725429805935" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="40">
+    <Link Source="@14" Target="@10" Category="References" Bounds="213.699044148296,117.400166092354,109.897266521259,159.012299171246" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="40">
       <Category Ref="CodeSchema_Calls" />
     </Link>
-    <Link Source="@13" Target="@8" Category="References" Bounds="488.261016174593,218.382745142466,377.045650492074,27.1698473715638" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="119">
+    <Link Source="@14" Target="@8" Category="References" Bounds="348.374008147851,202.8455802448,94.9815786147531,73.5668850187997" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="119">
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CodeSchema_FieldRead" />
       <Category Ref="CodeSchema_ReturnTypeLink" />
       <Category Ref="Implements" />
       <Category Ref="InheritsFrom" />
     </Link>
-    <Link Source="@2" Target="@10" Category="CodeSchema_Calls" Bounds="272.571697092818,8.50000000000006,637.578762677297,118.357342962755" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="3" />
-    <Link Source="@2" Target="@6" Category="CodeSchema_Calls" Bounds="636.347000299362,-0.949113877739834,223.002999700638,5.75906512521417" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="4" />
-    <Link Source="@2" Target="@8" Category="References" Bounds="408.697474989933,8.50000000000006,539.406762736166,229.476757957629" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="46">
+    <Link Source="@2" Target="@10" Category="CodeSchema_Calls" Bounds="309.366869213113,24.5036116503797,532.420411233885,60.5486723999662" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="3" />
+    <Link Source="@2" Target="@6" Category="CodeSchema_Calls" Bounds="594.349956001932,10.8862089613094,239.216447450234,0.748002720813821" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="4" />
+    <Link Source="@2" Target="@8" Category="References" Bounds="510.171945500197,24.5036116503797,406.446716741998,144.81030938698" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="46">
       <Category Ref="CodeSchema_Calls" />
     </Link>
-    <Link Source="@4" Target="@10" Category="CodeSchema_Calls" Bounds="307.74538680436,91.1910918407568,553.721279862307,41.4690749601254" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="2" />
-    <Link Source="@4" Target="@6" Category="References" Bounds="594.828715118995,22.0162497214238,289.522260758199,49.4837502785762" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="3">
+    <Link Source="@4" Target="@10" Category="CodeSchema_Calls" Bounds="309.383217082433,109.926282210879,530.182625506823,60.2168192004937" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="2" />
+    <Link Source="@4" Target="@6" Category="References" Bounds="513.271235246824,26.1053562454757,387.096809730071,142.305403192934" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="3">
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="Implements" />
     </Link>
-    <Link Source="@4" Target="@8" Category="References" Bounds="422.799045942022,96.5,491.566052097193,142.494251642398" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="24">
+    <Link Source="@4" Target="@8" Category="References" Bounds="583.869238933948,181.716206057353,254.481099793281,2.1346692502965" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="24">
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CodeSchema_ReturnTypeLink" />
       <Category Ref="Implements" />
     </Link>
-    <Link Source="@6" Target="@10" Category="References" Bounds="234.423726077263,20.5,248.657809010456,104.512739104052" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="134">
+    <Link Source="@6" Target="@10" Category="References" Bounds="247.432903650199,22.99995,184.467802187774,59.2443628896037" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="134">
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CodeSchema_FunctionPointer" />
       <Category Ref="CodeSchema_ReturnTypeLink" />
       <Category Ref="InheritsFrom" />
     </Link>
-    <Link Source="@6" Target="@8" Category="References" Bounds="382.732322335313,20.5,122.884652596936,213.202481672302" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="969">
+    <Link Source="@6" Target="@8" Category="References" Bounds="467.128955384441,22.99995,3.39069775273845,140.337162977796" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="969">
       <Category Ref="CodeSchema_AttributeUse" />
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CodeSchema_ReturnTypeLink" />
       <Category Ref="Implements" />
     </Link>
-    <Link Source="@8" Target="@10" Category="References" Bounds="223.26225116901,158.389058186613,128.4517606304,83.1109418133867" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="67">
+    <Link Source="@8" Target="@10" Category="References" Bounds="246.66179308424,112.797586417542,181.781947445635,59.5369007992515" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="67">
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CodeSchema_ReturnTypeLink" />
     </Link>
+    <Link Source="a551f3ef-7e2c-4d0a-ae3d-5aaac46928311" Target="@12" Bounds="596.793975008383,311.011688040032,15.6975173537913,22.6074486371898" />
+    <Link Source="基础通用方法类" Target="@10" Bounds="151.3192940997,117.56303859306,35.7009506106806,55.4370088109118" />
   </Links>
   <Categories>
     <Category Id="Category1" Label="类别 1" Background="#FFE51400" IsTag="True" />
@@ -84,6 +94,7 @@
     <Category Id="CodeSchema_FieldReference" Label="字段引用" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="引用方" OutgoingActionLabel="引用字段" />
     <Category Id="CodeSchema_FunctionPointer" Label="函数指针" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="函数指针" OutgoingActionLabel="函数指针" />
     <Category Id="CodeSchema_ReturnTypeLink" Label="返回" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="返回类型" OutgoingActionLabel="返回类型" />
+    <Category Id="Comment" Label="注释" Description="表示在图表中用户定义的注释" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="注释" />
     <Category Id="File" Label="文件" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="文件" />
     <Category Id="FileSystem.Category.FileOfType.dll" BasedOn="CodeSchema_Assembly" CanBeDataDriven="True" IsProviderRoot="False" />
     <Category Id="FileSystem.Category.FileOfType.exe" BasedOn="CodeSchema_Assembly" CanBeDataDriven="True" IsProviderRoot="False" />
@@ -107,7 +118,7 @@
     <Property Id="GraphDirection" DataType="Microsoft.VisualStudio.Diagrams.Layout.LayoutOrientation" />
     <Property Id="Group" Label="组" Description="将节点显示为组" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
     <Property Id="GroupLabel" DataType="System.String" />
-    <Property Id="Icon" DataType="System.String" />
+    <Property Id="Icon" Label="图标" Description="图标" DataType="System.String" />
     <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
     <Property Id="IsEnabled" DataType="System.Boolean" />
     <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
@@ -139,8 +150,9 @@
     <Alias n="9" Uri="Assembly=$(a24f4d38-ba9c-4fd6-95b7-4980de36131a.OutputPathUri)" />
     <Alias n="10" Id="(@9)" />
     <Alias n="11" Uri="Assembly=$(55baa051-ce62-4d4a-81b6-68b042cc78e9.OutputPathUri)" />
-    <Alias n="12" Uri="Assembly=$(01987bac-c498-44dd-b274-62ea2506b51d.OutputPathUri)" />
-    <Alias n="13" Id="(@12)" />
+    <Alias n="12" Id="(@11)" />
+    <Alias n="13" Uri="Assembly=$(01987bac-c498-44dd-b274-62ea2506b51d.OutputPathUri)" />
+    <Alias n="14" Id="(@13)" />
   </IdentifierAliases>
   <Styles>
     <Style TargetType="Node" GroupLabel="类别 7" ValueLabel="具有类别">
@@ -154,6 +166,14 @@
     <Style TargetType="Node" GroupLabel="错误" ValueLabel="错误级别">
       <Condition Expression="HasValue('ErrorLevel')" />
       <Setter Property="Icon" Value="Node.Error" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="注释" ValueLabel="包含注释">
+      <Condition Expression="HasCategory('Comment')" />
+      <Setter Property="Background" Value="#FFFFFACD" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+      <Setter Property="StrokeThickness" Value="1" />
+      <Setter Property="NodeRadius" Value="2" />
+      <Setter Property="MaxWidth" Value="250" />
     </Style>
   </Styles>
   <Paths>
